@@ -1,5 +1,6 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
+![task-tracker-gif](https://user-images.githubusercontent.com/79319296/133386645-83962f50-c1de-4d79-b135-93dab4972624.gif)
+
+src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
 # Project-006 : Task Tracker (RC-06)
 
